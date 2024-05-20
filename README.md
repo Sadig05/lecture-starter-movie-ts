@@ -22,3 +22,4 @@ The project has a [Git Hooks](https://www.atlassian.com/git/tutorials/git-hooks)
 Please, make sure there are no linter errors in your homework!
 
 ## 🤞 Good luck
+https://lecture-starter-movie-ts.vercel.app/
